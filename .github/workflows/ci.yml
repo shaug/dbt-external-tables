@@ -11,8 +11,8 @@ name: Package Integration Tests
 
 on:
     push:
-        branches:
-            - main
+        # branches:
+        #     - main
     pull_request_target:
     workflow_dispatch:
 
